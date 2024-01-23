@@ -1,0 +1,43 @@
+C:\Proyectos\VS2019C\Pruebas\Test\bin\Debug\Test.exe.config
+C:\Proyectos\VS2019C\Pruebas\Test\bin\Debug\Test.exe
+C:\Proyectos\VS2019C\Pruebas\Test\bin\Debug\Test.pdb
+C:\Proyectos\VS2019C\Pruebas\Test\bin\Debug\Test.xml
+C:\Proyectos\VS2019C\Pruebas\Test\obj\Debug\Test.vbproj.AssemblyReference.cache
+C:\Proyectos\VS2019C\Pruebas\Test\obj\Debug\Test.Inicio.resources
+C:\Proyectos\VS2019C\Pruebas\Test\obj\Debug\Test.Resources.resources
+C:\Proyectos\VS2019C\Pruebas\Test\obj\Debug\Test.vbproj.GenerateResource.cache
+C:\Proyectos\VS2019C\Pruebas\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Proyectos\VS2019C\Pruebas\Test\obj\Debug\Test.exe
+C:\Proyectos\VS2019C\Pruebas\Test\obj\Debug\Test.xml
+C:\Proyectos\VS2019C\Pruebas\Test\obj\Debug\Test.pdb
+C:\Proyectos\VS2019C\Pruebas\Test\bin\Debug\DB.mdf
+C:\Proyectos\VS2019C\Pruebas\Test\bin\Debug\DB_log.ldf
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\Test.exe.config
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\Test.exe
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\Test.pdb
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\Test.xml
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\obj\Debug\Test.vbproj.AssemblyReference.cache
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\obj\Debug\Test.Inicio.resources
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\obj\Debug\Test.Resources.resources
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\obj\Debug\Test.vbproj.GenerateResource.cache
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\obj\Debug\Test.exe
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\obj\Debug\Test.xml
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\obj\Debug\Test.pdb
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\MySqlConnector.dll
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Buffers.dll
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Memory.dll
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\MySqlConnector.xml
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Buffers.xml
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Memory.xml
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Proyectos\VS2019C\Pruebas\Pruebas_2 MySQL\Test\obj\Debug\Test.vbproj.CopyComplete
